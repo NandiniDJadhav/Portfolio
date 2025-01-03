@@ -63,7 +63,7 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the XYZ License. See the [LICENSE](./LICENSE) file for details.
 
 ## Contact
 
