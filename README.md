@@ -48,8 +48,12 @@ Welcome to my portfolio project! This project showcases my skills, projects, and
    ```
 
 ## Screenshots
+![Screenshot 2025-01-05 175216](https://github.com/user-attachments/assets/883fe04f-9a31-410a-af24-0ae0077c1e3a)
+![Screenshot 2025-01-05 180232](https://github.com/user-attachments/assets/57a26c33-1ff1-4db3-8286-8d4ea7761f12)
+![Screenshot 2025-01-05 175410](https://github.com/user-attachments/assets/5ca09891-5adb-4de7-8568-9fcad2b59a50)
 
-*(Include screenshots or a link to a demo of your portfolio.)*
+
+
 
 ## Contributing
 
@@ -63,7 +67,7 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 ## License
 
-This project is licensed under the XYZ License. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the NDJ License. See the [LICENSE](./LICENSE) file for details.
 
 ## Contact
 
